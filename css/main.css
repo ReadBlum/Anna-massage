@@ -95,11 +95,11 @@
   }
 
   .poslugy-card img {
-    width: 375px;
+    width: 300px;
   }
 
   .poslugy-card {
-    width: 375px;
+    width: 300px;
   }
 
   .poslugy-card h2 {
@@ -109,14 +109,14 @@
   .book-hero {
     border-radius: 25px;
     padding: 10px 20px;
-    font-size: 24px;
+    font-size: 16px;
     margin-left: 10px;
   }
 
   .poslugy {
     border-radius: 25px;
     padding: 10px 20px;
-    font-size: 24px;
+    font-size: 16px;
     margin-left: 20px;
   }
 

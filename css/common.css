@@ -72,4 +72,8 @@ nav {
   .logo {
     font-size: 12px;
   }
+
+  .upper-title {
+    transform: translateY(-30px);
+  }
 }
